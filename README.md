@@ -67,7 +67,7 @@ Use annotations such as @ManyToMany or @OneToMany to create relations within you
 
 ```
 @Entity
-public class CD {
+public class entities.CD {
     @Id
     @GeneratedValue
     private Long id;
