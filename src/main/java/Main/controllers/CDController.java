@@ -1,4 +1,4 @@
-package controllers;
+package Main.controllers;
 
 public class CDController {
 }
